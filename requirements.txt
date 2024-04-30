@@ -1,0 +1,4 @@
+pycryptodome==3.9.9
+paramiko==2.7.2
+flask==1.1.2  # If using a web interface
+pytest==6.1.1
